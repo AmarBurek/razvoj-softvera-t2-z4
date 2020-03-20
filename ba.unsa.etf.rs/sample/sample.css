@@ -1,0 +1,11 @@
+.root{
+    -fx-background-color: lime;
+}
+
+#innerGrid{
+    -fx-background-color: blue;
+}
+
+#dataT{
+    -fx-font-weight: bold;
+}
